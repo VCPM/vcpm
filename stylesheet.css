@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,400italic|Roboto+Mono:400|Material+Icons');
+
+body {
+    background-color: white;
+    max-width: 800px;
+    margin: auto;
+    text-align: justify;
+}
+
+ a {
+     color: #4285F4;
+     text-decoration: none;
+ }
+
+ * {
+     font-family: Roboto;
+     font-weight: 300;
+ }
+ 
+ p {
+     padding-left: 1em;
+ }
+ 
+ h1 {
+     color: #4285F4;
+     font-size: 3em;
+ }
+
