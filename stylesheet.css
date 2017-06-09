@@ -10,30 +10,44 @@ body {
  a {
      color: #4285F4;
      text-decoration: none;
-     font-weight: 400; 
+     font-weight: 400;
 
+ }
+
+ .content {
+    margin: 4em 2em;
+ }
+
+ p.imprint {
+    text-align: center;
+ }
+
+ p.imprint a {
+    font-size: 0.8em;
+    font-weight: 200;
  }
 
  * {
      font-family: Roboto;
      font-weight: 300;
  }
- 
+
  p {
      padding-left: 1em;
  }
- 
+
  h1 {
+    text-align: center;
      color: #4285F4;
-     font-size: 3em;
+     font-size: 5em;
  }
 
- sup { 
+ sup {
     vertical-align: super;
     font-size: x-small;
 }
 
 b {
     font-family: Roboto;
-    font-weight: 400; 
+    font-weight: 400;
 }
