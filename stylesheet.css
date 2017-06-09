@@ -11,11 +11,15 @@ body {
      color: #4285F4;
      text-decoration: none;
      font-weight: 400;
-
  }
 
  .content {
     margin: 4em 2em;
+ }
+
+ li {
+
+     line-height: 1.8em;
  }
 
  p.imprint {
@@ -34,6 +38,7 @@ body {
 
  p {
      padding-left: 1em;
+     line-height: 1.8em;
  }
 
  h1 {
